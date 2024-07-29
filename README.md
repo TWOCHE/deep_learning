@@ -1,2 +1,7 @@
 # deep_learning
-Constructing a model utilizing Convolutional Neural Net (CNN) for predicting whether the image is of a wasp or a bee.
+
+The applications were performed on CNN with 2 different datasets.
+
+One is to create a model using Convolutional Neural Network (CNN) to predict whether the image is a wasp or a bee.
+
+The other is to implement the CNN model on the Fashion MNIST dataset using both KERAS and PyTorch libraries.
